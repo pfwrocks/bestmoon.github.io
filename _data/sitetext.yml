@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: 
+    text: Catering and Wholesale
     button: Tell Me More
     buttonlink: "#services"
 
@@ -35,6 +35,12 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
+    closebutton: "Close Project"
+  
+  catering:
+    title: "Catering"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: catering
     closebutton: "Close Project"
 
   timeline:
