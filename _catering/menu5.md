@@ -7,7 +7,7 @@ alt:
 caption:
   title: Southwest
   subtitle: Website Design
-  thumbnail: assets/img/catering/soup.jpg
+  thumbnail: assets/img/catering/veggie-soup.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

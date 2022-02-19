@@ -1,17 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/catering/cake.jpg
-alt: Keep Exploring
+title: Desserts
+subtitle: Including Wedding Cakes
+image: assets/img/catering/wedding-cake.jpg
+alt: 
 
 caption:
   title: Desserts
-  subtitle: Graphic Design
-  thumbnail: assets/img/catering/cake.jpg
+  subtitle: Including Wedding Cakes
+  thumbnail: assets/img/catering/wedding-cake.jpg
 ---
 
-![Alt text](assets/img/catering/lemon-pie.jpg)
-![Alt text](assets/img/catering/fruit-pie.jpg)
+![Alt text](assets/img/catering/cookies.jpg)
+![Alt text](assets/img/catering/muffins.jpg)
 
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

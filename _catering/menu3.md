@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/catering/soup.jpg
+title: Soup
+subtitle: 
+image: assets/img/catering/veggie-soup.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/catering/soup.jpg
+  title: Soup
+  subtitle: 
+  thumbnail: assets/img/catering/veggie-soup.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Can use this as a description of the soup including indgredients
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Contains: January 2017
+- Other Info: Finish
+- Info: Identity
 

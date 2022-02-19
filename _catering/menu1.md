@@ -1,18 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/catering/soup.jpg
-alt: Shirts on a hanger
+title: Tarts and Pies
+subtitle: including apple and chocolate
+image: assets/img/catering/fruit-tart2.jpg
+alt: 
 
 caption:
-  title: Menu 1
-  subtitle: Illustration
-  thumbnail: assets/img/catering/soup.jpg
+  title: Tarts/Pies
+  subtitle: 
+  thumbnail: assets/img/catering/fruit-tart2.jpg
 ---
 Use . **Markdown** TEST supported. This entry (project1.md) uses links for the image sources. All other projects in the use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
-![Alt text](assets/img/catering/lemon-pie.jpg)
-![Alt text](assets/img/catering/fruit-pie.jpg)
+![Heart Pie](assets/img/catering/heart-pie.jpg)
+![Mango Pie](assets/img/catering/mango-pie.jpg)
+![Pie Assortment](assets/img/catering/all-pies.jpg)
+![Apple Pie](assets/img/catering/pie.jpg)
 
 {:.list-inline}
 - Date: January 2017

@@ -1,15 +1,26 @@
 ---
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/catering/soup.jpg
+image: assets/img/catering/seafood-boil.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/catering/soup.jpg
+  title: Summer Menu
+  subtitle: 
+  thumbnail: assets/img/catering/seafood-boil.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+[Summer Menu PDF](assets/menus/summer.pdf)
+<embed src="assets/menus/summer.pdf" type="application/pdf">
+
+<iframe src="assets/menus/summer.pdf"
+            frameborder="0" 
+            marginheight="0" 
+            marginwidth="0" 
+            width="100%" 
+            height="500px"
+            scrolling="auto">
+  </iframe>
 
 {:.list-inline}
 - Date: October 2019
