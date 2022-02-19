@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: 
     text: Catering and Wholesale
-    button: Tell Me More
-    buttonlink: "#services"
+    button: 
+    buttonlink: 
 
   services:
     title: "Services"
