@@ -15,10 +15,10 @@ en: &DEFAULT_EN
       section: catering
     - title: "Wholesale"
       section: wholesale
+    - title: "Off The Beaten Path"
+      section: off-beaten-path
     - title: "About"
       section: about
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
 en-US:
