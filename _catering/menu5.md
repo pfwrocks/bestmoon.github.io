@@ -1,7 +1,7 @@
 ---
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/catering/soup.jpg
+image: assets/img/catering/veggie-soup.jpg
 alt: 
 
 caption:

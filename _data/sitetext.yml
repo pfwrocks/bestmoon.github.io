@@ -43,6 +43,22 @@ en: &DEFAULT_EN
     section: catering
     closebutton: "Close Project"
 
+  wholesale:
+    title: "Wholesale"
+    text: "Maple Walnut Bars"
+    section: wholesale
+    list:
+      - title: "Raspberry"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        image: assets/img/wholesale/walnut-raspberry.jpg
+      - title: "Gluten Free Raspberry"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        image: assets/img/wholesale/walnut-raspberry-gf.jpg
+      - title: "Salted Chocolate"
+        # title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)" (link to buying site?)
+        desc: "Your description here, full **Markdown** support"
+        image: assets/img/wholesale/walnut-salted-chocolate.jpg
+
   timeline:
     title: "Timeline"
     text: "Lorem ipsum timeline"
