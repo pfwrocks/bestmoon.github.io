@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Catering"
       section: catering
+    - title: "Wholesale"
+      section: wholesale
     - title: "About"
       section: about
     - title: "Team"
